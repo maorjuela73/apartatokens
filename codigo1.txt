@@ -1,4 +1,6 @@
 import dogs
 
 def dog1(num):
-    return num*2
+    return num*3
+
+    codigo agregado
